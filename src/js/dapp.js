@@ -10,8 +10,8 @@ DApp = {
     // set to true to use with local blockchain
     development: true,
     //Rinkeby:
-    factoryAddress: "0xe47684d658872fbde11c82036099a12c066c4fa3",
-    tokenAddress: "0x86b32525e687500ed4a665d1b16fef526cdd6f10",
+    factoryAddress: "0x78722712C4eC04ACa7C8Ed7c00CC8EF386a21c5A",
+    tokenAddress: "0x0DA790395Ed34a53397aEC49868909b13b15DfDA",
 
     init: function() {
         console.log("[x] Initializing DApp.");
